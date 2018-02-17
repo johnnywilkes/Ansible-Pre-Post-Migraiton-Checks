@@ -1,0 +1,178 @@
+eigrp:
+  response:
+  - address: 192.168.122.74
+    interface: Vl1
+  - address: 192.168.122.72
+    interface: Vl1
+
+interfaces:
+  GigabitEthernet0/0:
+    description: ''
+    is_enabled: true
+    is_up: true
+    mac_address: 00:54:9E:DA:91:00
+    speed: 1000
+  GigabitEthernet0/1:
+    description: ''
+    is_enabled: true
+    is_up: true
+    mac_address: 00:54:9E:DA:91:01
+    speed: 1000
+  GigabitEthernet0/2:
+    description: ''
+    is_enabled: true
+    is_up: true
+    mac_address: 00:54:9E:DA:91:02
+    speed: 1000
+  GigabitEthernet0/3:
+    description: ''
+    is_enabled: true
+    is_up: true
+    mac_address: 00:54:9E:DA:91:03
+    speed: 1000
+  GigabitEthernet1/0:
+    description: ''
+    is_enabled: true
+    is_up: true
+    mac_address: 00:54:9E:DA:91:04
+    speed: 1000
+  GigabitEthernet1/1:
+    description: ''
+    is_enabled: true
+    is_up: true
+    mac_address: 00:54:9E:DA:91:05
+    speed: 1000
+  GigabitEthernet1/2:
+    description: ''
+    is_enabled: true
+    is_up: true
+    mac_address: 00:54:9E:DA:91:06
+    speed: 1000
+  GigabitEthernet1/3:
+    description: ''
+    is_enabled: true
+    is_up: true
+    mac_address: 00:54:9E:DA:91:07
+    speed: 1000
+  GigabitEthernet2/0:
+    description: ''
+    is_enabled: true
+    is_up: true
+    mac_address: 00:54:9E:DA:91:08
+    speed: 1000
+  GigabitEthernet2/1:
+    description: ''
+    is_enabled: true
+    is_up: true
+    mac_address: 00:54:9E:DA:91:09
+    speed: 1000
+  GigabitEthernet2/2:
+    description: ''
+    is_enabled: true
+    is_up: true
+    mac_address: 00:54:9E:DA:91:0A
+    speed: 1000
+  GigabitEthernet2/3:
+    description: ''
+    is_enabled: true
+    is_up: true
+    mac_address: 00:54:9E:DA:91:0B
+    speed: 1000
+  GigabitEthernet3/0:
+    description: ''
+    is_enabled: true
+    is_up: true
+    mac_address: 00:54:9E:DA:91:0C
+    speed: 1000
+  GigabitEthernet3/1:
+    description: ''
+    is_enabled: true
+    is_up: true
+    mac_address: 00:54:9E:DA:91:0D
+    speed: 1000
+  GigabitEthernet3/2:
+    description: ''
+    is_enabled: true
+    is_up: true
+    mac_address: 00:54:9E:DA:91:0E
+    speed: 1000
+  GigabitEthernet3/3:
+    description: ''
+    is_enabled: true
+    is_up: true
+    mac_address: 00:54:9E:DA:91:0F
+    speed: 1000
+  Port-channel1:
+    description: ''
+    is_enabled: true
+    is_up: true
+    mac_address: 00:54:9E:DA:91:01
+    speed: 2000
+  Vlan1:
+    description: ''
+    ipv4:
+      192.168.122.73:
+        prefix_length: 24
+    is_enabled: true
+    is_up: true
+    mac_address: 00:54:9E:DA:80:01
+    speed: 1000
+
+lacp_neighbors:
+  response:
+  - a_channel_group: '1'
+    adminkey: '0x0'
+    flag: SA
+    interface: Gi0/1
+    mac: 0054.9e8b.8000
+    operkey: '0x1'
+    portnumb: '0x2'
+    portstate: '0x3D'
+    priority: '32768'
+  - a_channel_group: '1'
+    adminkey: '0x0'
+    flag: SA
+    interface: Gi0/2
+    mac: 0054.9e8b.8000
+    operkey: '0x1'
+    portnumb: '0x3'
+    portstate: '0x3D'
+    priority: '32768'
+
+routes:
+  response:
+  - distance: ''
+    mask: '24'
+    metric: ''
+    network: 192.168.122.0
+    nexthop_if: Vlan1
+    nexthop_ip: ''
+    protocol: C
+    type: ''
+  - distance: ''
+    mask: '32'
+    metric: ''
+    network: 192.168.122.73
+    nexthop_if: Vlan1
+    nexthop_ip: ''
+    protocol: L
+    type: ''
+
+cdp_neighbors:
+  response:
+  - destination_host: S1.cciepython.org
+    local_port: GigabitEthernet1/0
+    management_ip: 192.168.122.72
+    platform: 'Cisco '
+    remote_port: GigabitEthernet0/2
+  - destination_host: S3.cciepython.org
+    local_port: GigabitEthernet0/2
+    management_ip: 192.168.122.74
+    platform: 'Cisco '
+    remote_port: GigabitEthernet0/2
+  - destination_host: S3.cciepython.org
+    local_port: GigabitEthernet0/1
+    management_ip: 192.168.122.74
+    platform: 'Cisco '
+    remote_port: GigabitEthernet0/1
+

@@ -1,0 +1,23 @@
+---
+- name: GET STRUCTURED DATA BACK FROM CLI DEVICES
+  hosts: all
+  connection: local
+  gather_facts: False
+  vars:
+  - results: results
+  tasks:
+    - file: path={{results}} state=directory
+      run_once: true
+    - name: TEST NTC MODULE
+      ntc_show_command:
+        connection: offline
+        file: ./test/LACPOUTPUT.raw
+        platform: cisco_ios_ssh
+        command: 'show lacp neighbor | include ^Channel|^Gi'
+        template_dir: "/home/jwilkes/.ansible/plugins/modules/ntc-ansible/ntc-templates/templates"
+        host: "{{ inventory_hostname }}"
+        username: "{{ ansible_user }}"
+        password: "{{ ansible_ssh_pass }}"
+      register: facts
+    - copy: content="{{facts.response|to_nice_yaml(indent=4)}}" dest={{results}}/{{inventory_hostname}}.yml
+    #- debug: var=facts

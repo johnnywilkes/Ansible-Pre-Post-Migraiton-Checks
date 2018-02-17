@@ -1,0 +1,871 @@
+IP-EIGRP neighbors for process 3705
+H   Address                 Interface       Hold Uptime   SRTT   RTO  Q  Seq
+                                            (sec)         (ms)       Cnt Num
+1   172.16.3.5              Gi0/0/0           14 46w4d       1   200  0  1231708
+0   172.16.3.1              Gi0/0             13 2y41w       1   200  0  4888269
+IP-EIGRP neighbors for process 3705
+H   Address                 Interface       Hold Uptime   SRTT   RTO  Q  Seq
+                                            (sec)         (ms)       Cnt Num
+3   172.16.3.53             Te2/3             13 2w2d        1   200  0  1065321
+0   172.17.5.3              Vl2               13 2w2d        1   200  0  12816473
+2   172.18.5.35             Vl4003            12 6w5d        1   200  0  12816472
+28  172.18.2.42             Gi1/2             14 50w4d       1   200  0  36095
+25  172.18.2.6              Gi1/23            11 50w4d       5   200  0  220720
+22  172.18.2.18             Gi1/24            14 50w4d       4   200  0  221657
+1   172.16.3.45             Te2/1             14 1y13w       1   200  0  1038526
+IP-EIGRP neighbors for process 3705
+H   Address                 Interface       Hold Uptime   SRTT   RTO  Q  Seq
+                                            (sec)         (ms)       Cnt Num
+3   172.17.5.2              Vl2               14 2w2d        1   200  0  13564803
+0   172.18.2.22             Gi1/24            11 3w6d        4   200  0  221643
+1   172.16.3.61             Te2/1             11 4w0d        1   200  0  1065319
+2   172.18.5.34             Vl4003            12 6w5d        1   200  0  13564804
+21  172.18.2.10             Gi1/23            11 50w4d       5   200  0  220708
+26  172.16.3.57             Te2/3             14 1y13w       1   200  0  1038525
+IP-EIGRP neighbors for process 3705
+H   Address                 Interface       Hold Uptime   SRTT   RTO  Q  Seq
+                                            (sec)         (ms)       Cnt Num
+9   172.19.2.71             Gi1/25            12 7w1d        1   200  0  2
+7   172.19.2.138            Gi1/23            11 8w2d       10   200  0  677178
+5   172.19.2.142            Gi1/24            14 13w2d       8   200  0  677174
+2   172.19.2.51             Gi5/1             12 14w5d       5   200  0  51563
+1   172.19.2.18             Gi1/45            11 24w5d       1   200  0  98456
+12  172.19.2.169            Gi5/2             14 37w6d       5   200  0  82129
+11  172.19.2.38             Te4/2             12 49w4d       1   200  0  384868
+0   172.19.2.34             Te4/1             13 49w4d       1   200  0  376404
+8   172.19.2.158            Gi1/35            13 2y5w        3   200  0  324294
+10  172.19.2.59             Te4/4             13 3y17w       5   200  0  375177
+4   172.19.31.3             Vl2               13 7y25w       1   200  0  5726520
+3   172.19.4.3              Vl4               12 7y25w       1   200  0  5726519
+IP-EIGRP neighbors for process 3705
+H   Address                 Interface       Hold Uptime   SRTT   RTO  Q  Seq
+                                            (sec)         (ms)       Cnt Num
+2   172.18.4.35             Vl4003            10 1d21h       3   200  0  8841082
+1   172.16.3.33             Te8/2             14 1d21h       1   200  0  1065318
+0   172.16.3.25             Te8/1             11 47w2d       1   200  0  1038531
+IP-EIGRP neighbors for process 3705
+H   Address                 Interface       Hold Uptime   SRTT   RTO  Q  Seq
+                                            (sec)         (ms)       Cnt Num
+2   172.18.4.34             Vl4003            10 1d21h       1   200  0  8432204
+0   172.16.3.37             Te8/1             13 1y13w       1   300  0  1065314
+1   172.16.3.41             Te8/2             10 1y13w       1   300  0  1038527
+IP-EIGRP neighbors for process 3705
+H   Address                 Interface       Hold Uptime   SRTT   RTO  Q  Seq
+                                            (sec)         (ms)       Cnt Num
+8   172.19.2.146            Gi1/23            14 13w2d       5   200  0  677175
+7   172.19.2.53             Gi5/1             12 14w5d       8   200  0  51557
+1   172.19.2.22             Gi1/45            12 24w5d       1   200  0  98457
+11  172.19.2.171            Gi5/2             11 37w6d       6   200  0  82128
+10  172.19.2.46             Te4/2             12 49w4d       1   200  0  384867
+6   172.19.2.42             Te4/1             14 49w4d       1   200  0  376403
+4   172.19.2.150            Gi1/24            11 1y9w        4   200  0  677176
+5   172.19.2.166            Gi1/35            14 2y5w        1   200  0  324293
+2   172.19.2.61             Te4/4             11 3y17w       4   200  0  375176
+9   172.19.31.2             Vl2               11 7y25w       1   200  0  5599543
+3   172.19.4.2              Vl4               13 7y25w       1   200  0  5599542
+EIGRP-IPv4 Neighbors for AS(3705)
+H   Address                 Interface              Hold Uptime   SRTT   RTO  Q  Seq
+                                                   (sec)         (ms)       Cnt Num
+1   172.18.5.130            Te4/1                    13 3w0d        4   100  0  2731627
+0   172.18.5.128            Te3/1                    14 3w0d        4   100  0  2731628
+EIGRP-IPv4 Neighbors for AS(3705)
+H   Address                 Interface              Hold Uptime   SRTT   RTO  Q  Seq
+                                                   (sec)         (ms)       Cnt Num
+1   172.18.5.134            Te4/1                    12 9w5d        1   100  0  2731707
+0   172.18.5.132            Te3/1                    14 9w5d        1   100  0  2731690
+EIGRP-IPv4 Neighbors for AS(3705)
+H   Address                 Interface              Hold Uptime   SRTT   RTO  Q  Seq
+                                                   (sec)         (ms)       Cnt Num
+1   172.18.5.142            Te4/1                    11 3w0d        1   100  0  2731657
+0   172.18.5.140            Te3/1                    11 3w1d        1   100  0  2731654
+EIGRP-IPv4 Neighbors for AS(3705)
+H   Address                 Interface              Hold Uptime   SRTT   RTO  Q  Seq
+                                                   (sec)         (ms)       Cnt Num
+1   172.18.5.150            Te4/1                    12 9w5d        1   100  0  2731638
+0   172.18.5.148            Te3/1                    11 9w5d        1   100  0  2731710
+EIGRP-IPv4 Neighbors for AS(3705)
+H   Address                 Interface              Hold Uptime   SRTT   RTO  Q  Seq
+                                                   (sec)         (ms)       Cnt Num
+1   172.18.5.154            Te4/1                    10 9w5d        2   100  0  2731646
+0   172.18.5.152            Te3/1                    13 9w5d        3   100  0  2731647
+EIGRP-IPv4 Neighbors for AS(3705)
+H   Address                 Interface              Hold Uptime   SRTT   RTO  Q  Seq
+                                                   (sec)         (ms)       Cnt Num
+1   172.18.5.158            Te4/1                    12 9w5d        2   100  0  2731624
+0   172.18.5.156            Te3/1                    14 9w5d        2   100  0  2731623
+EIGRP-IPv4 Neighbors for AS(3705)
+H   Address                 Interface              Hold Uptime   SRTT   RTO  Q  Seq
+                                                   (sec)         (ms)       Cnt Num
+1   172.18.5.174            Te4/1                    13 9w5d        2   100  0  2731666
+0   172.18.5.172            Te3/1                    13 9w5d        1   100  0  2731674
+EIGRP-IPv4 Neighbors for AS(3705)
+H   Address                 Interface              Hold Uptime   SRTT   RTO  Q  Seq
+                                                   (sec)         (ms)       Cnt Num
+0   172.18.5.196            Te5/1                    13 3w5d        1   100  0  2731622
+1   172.18.5.198            Te6/1                    13 9w5d        1   100  0  2731621
+EIGRP-IPv4 Neighbors for AS(3705)
+H   Address                 Interface              Hold Uptime   SRTT   RTO  Q  Seq
+                                                   (sec)         (ms)       Cnt Num
+1   172.18.5.216            Te3/1                    11 9w4d        3   100  0  2731645
+0   172.18.5.218            Te4/1                    13 9w4d        3   100  0  2731644
+EIGRP-IPv4 Neighbors for AS(3705)
+H   Address                 Interface              Hold Uptime   SRTT   RTO  Q  Seq
+                                                   (sec)         (ms)       Cnt Num
+1   172.18.5.224            Te3/1                    14 3w0d        1   100  0  2731705
+0   172.18.5.226            Te4/1                    11 3w0d        1   100  0  2731701
+EIGRP-IPv4 Neighbors for AS(3705)
+H   Address                 Interface              Hold Uptime   SRTT   RTO  Q  Seq
+                                                   (sec)         (ms)       Cnt Num
+0   172.18.5.232            Te3/1                    11 7w1d        2   100  0  2731632
+1   172.18.5.234            Te4/1                    13 7w6d        2   100  0  2731631
+EIGRP-IPv4 Neighbors for AS(3705)
+H   Address                 Interface              Hold Uptime   SRTT   RTO  Q  Seq
+                                                   (sec)         (ms)       Cnt Num
+0   172.18.5.236            Te3/1                    10 2w5d        1   100  0  2731696
+1   172.18.5.238            Te4/1                    11 9w3d        1   100  0  2731702
+EIGRP-IPv4 Neighbors for AS(3705)
+H   Address                 Interface              Hold Uptime   SRTT   RTO  Q  Seq
+                                                   (sec)         (ms)       Cnt Num
+0   172.18.5.252            Te3/1                    11 7w1d        1   100  0  2731665
+1   172.18.5.254            Te4/1                    13 9w4d        1   100  0  2731659
+EIGRP-IPv4 Neighbors for AS(3705)
+H   Address                 Interface              Hold Uptime   SRTT   RTO  Q  Seq
+                                                   (sec)         (ms)       Cnt Num
+2   172.18.2.21             Te1/0/1                  13 3w6d        2   100  0  12816474
+1   172.18.2.17             Te1/0/2                  11 50w4d       1   100  0  13564806
+0   172.18.2.13             Vl4004                   14 1y11w      10   100  0  220723
+EIGRP-IPv4 Neighbors for AS(3705)
+H   Address                 Interface              Hold Uptime   SRTT   RTO  Q  Seq
+                                                   (sec)         (ms)       Cnt Num
+2   172.18.2.9              Te1/0/2                  10 50w4d       1   100  0  12816475
+1   172.18.2.5              Te1/0/1                  10 50w4d       1   100  0  13564807
+0   172.18.2.14             Vl4004                   14 1y11w      10   100  0  221659
+EIGRP-IPv4 Neighbors for AS(3705)
+H   Address                 Interface              Hold Uptime   SRTT   RTO  Q  Seq
+                                                   (sec)         (ms)       Cnt Num
+1   172.18.5.146            Te4/1                    11 7w2d        1   100  0  2731664
+0   172.18.5.144            Te3/1                    11 7w2d        1   100  0  2731655
+EIGRP-IPv4 Neighbors for AS(3705)
+H   Address                 Interface              Hold Uptime   SRTT   RTO  Q  Seq
+                                                   (sec)         (ms)       Cnt Num
+1   172.18.5.166            Te4/1                    14 9w5d        1   100  0  2731668
+0   172.18.5.164            Te3/1                    12 9w5d        1   100  0  2731661
+EIGRP-IPv4 Neighbors for AS(3705)
+H   Address                 Interface              Hold Uptime   SRTT   RTO  Q  Seq
+                                                   (sec)         (ms)       Cnt Num
+1   172.18.5.180            Te3/1                    12 3w5d        2   100  0  2731704
+0   172.18.5.182            Te4/1                    12 4w1d        2   100  0  2731698
+EIGRP-IPv4 Neighbors for AS(3705)
+H   Address                 Interface              Hold Uptime   SRTT   RTO  Q  Seq
+                                                   (sec)         (ms)       Cnt Num
+1   172.18.5.212            Te3/1                    14 7w1d        1   100  0  2731684
+0   172.18.5.214            Te4/1                    12 9w1d        1   100  0  2731688
+IP-EIGRP neighbors for process 3705
+IP-EIGRP neighbors for process 255
+H   Address                 Interface       Hold Uptime   SRTT   RTO  Q  Seq
+                                            (sec)         (ms)       Cnt Num
+0   172.19.56.1             Gi0/0             13 4w1d        1   300  0  179421
+EIGRP-IPv4 Neighbors for AS(3705)
+H   Address                 Interface       Hold Uptime   SRTT   RTO  Q  Seq
+                                            (sec)         (ms)       Cnt Num
+0   172.19.2.137            Gi1/0/45          11 8w2d        1   200  0  5599544
+3   172.19.2.145            Gi1/0/46          11 13w2d       1   200  0  5726526
+2   172.19.2.141            Gi2/0/45          12 13w2d       1   200  0  5599541
+4   172.19.2.149            Gi2/0/46          13 1y9w        1   200  0  5726527
+1   172.19.21.53            Vl203             13 1y9w        1  5000  0  62
+EIGRP-IPv4 Neighbors for AS(3705)
+H   Address                 Interface       Hold Uptime   SRTT   RTO  Q  Seq
+                                            (sec)         (ms)       Cnt Num
+1   172.19.2.165            Gi2/0/48          14 2y5w        1   200  0  5726525
+0   172.19.2.157            Gi1/0/48          13 2y5w        1   200  0  5599538
+IP-EIGRP neighbors for process 3705
+H   Address                 Interface       Hold Uptime   SRTT   RTO  Q  Seq
+                                            (sec)         (ms)       Cnt Num
+1   172.19.2.21             Gi0/1             11 24w5d       1   200  0  5726524
+0   172.19.2.17             Gi0/0             11 24w5d       1   200  0  5599537
+EIGRP-IPv4 Neighbors for AS(3705)
+H   Address                 Interface              Hold Uptime   SRTT   RTO  Q  Seq
+                                                   (sec)         (ms)       Cnt Num
+1   172.18.4.166            Te4/1                    11 9w5d        1   100  0  2731695
+0   172.18.4.164            Te3/1                    13 9w5d        1   100  0  2731653
+EIGRP-IPv4 Neighbors for AS(3705)
+H   Address                 Interface              Hold Uptime   SRTT   RTO  Q  Seq
+                                                   (sec)         (ms)       Cnt Num
+1   172.18.4.174            Te4/1                    10 9w5d        1   100  0  2731680
+0   172.18.4.172            Te3/1                    11 9w5d        1   100  0  2731679
+EIGRP-IPv4 Neighbors for AS(3705)
+H   Address                 Interface              Hold Uptime   SRTT   RTO  Q  Seq
+                                                   (sec)         (ms)       Cnt Num
+1   172.18.4.206            Te4/1                    12 9w5d        2   100  0  2731633
+0   172.18.4.204            Te3/1                    11 9w5d        1   100  0  2731634
+EIGRP-IPv4 Neighbors for AS(3705)
+H   Address                 Interface              Hold Uptime   SRTT   RTO  Q  Seq
+                                                   (sec)         (ms)       Cnt Num
+1   172.18.4.220            Te3/1                    13 7w1d        2   100  0  2731671
+0   172.18.4.222            Te4/1                    13 9w5d        2   100  0  2731662
+EIGRP-IPv4 Neighbors for AS(3705)
+H   Address                 Interface              Hold Uptime   SRTT   RTO  Q  Seq
+                                                   (sec)         (ms)       Cnt Num
+0   172.18.4.236            Te5/1                    10 5w1d        9   100  0  2731626
+1   172.18.4.238            Te6/1                    11 5w1d       11   100  0  2731625
+EIGRP-IPv4 Neighbors for AS(3705)
+H   Address                 Interface              Hold Uptime   SRTT   RTO  Q  Seq
+                                                   (sec)         (ms)       Cnt Num
+1   172.18.4.212            Te3/1                    11 3w6d        2   100  0  2731656
+0   172.18.4.214            Te4/1                    14 3w6d        3   100  0  2731652
+EIGRP-IPv4 Neighbors for AS(3705)
+H   Address                 Interface              Hold Uptime   SRTT   RTO  Q  Seq
+                                                   (sec)         (ms)       Cnt Num
+0   172.18.4.228            Te3/1                    10 7w1d        1   100  0  2731700
+1   172.18.4.230            Te4/1                    11 9w5d        1   100  0  2731706
+EIGRP-IPv4 Neighbors for AS(255)
+H   Address                 Interface              Hold Uptime   SRTT   RTO  Q  Seq
+                                                   (sec)         (ms)       Cnt Num
+0   172.20.127.225          Vl224                    13 46w6d       1   100  0  428929
+EIGRP-IPv4 Neighbors for AS(3705)
+H   Address                 Interface       Hold Uptime   SRTT   RTO  Q  Seq
+                                            (sec)         (ms)       Cnt Num
+1   172.16.37.3             Vl2               14 48w5d       1   200  0  123568
+0   172.16.2.169            Gi1/0/48          11 48w5d       1   200  0  4888264
+EIGRP-IPv4 Neighbors for AS(3705)
+H   Address                 Interface       Hold Uptime   SRTT   RTO  Q  Seq
+                                            (sec)         (ms)       Cnt Num
+0   172.16.3.117            Po2               14 46w4d       1   300  0  1231700
+EIGRP-IPv4 Neighbors for AS(3705)
+H   Address                 Interface       Hold Uptime   SRTT   RTO  Q  Seq
+                                            (sec)         (ms)       Cnt Num
+0   172.16.2.149            Po2               13 46w4d       1   300  0  1231696
+1   172.16.2.145            Po1               13 1y7w        1   300  0  4888258
+EIGRP-IPv4 Neighbors for AS(3705)
+H   Address                 Interface              Hold Uptime   SRTT   RTO  Q  Seq
+                                                   (sec)         (ms)       Cnt Num
+1   172.18.4.134            Te4/1                    14 9w5d        1   100  0  2731686
+0   172.18.4.132            Te3/1                    14 9w5d        1   100  0  2731692
+EIGRP-IPv4 Neighbors for AS(3705)
+H   Address                 Interface              Hold Uptime   SRTT   RTO  Q  Seq
+                                                   (sec)         (ms)       Cnt Num
+0   172.18.4.232            Te3/1                    13 7w1d        3   100  0  2731650
+1   172.18.4.234            Te4/1                    13 9w5d        2   100  0  2731651
+EIGRP-IPv4 Neighbors for AS(3705)
+H   Address                 Interface              Hold Uptime   SRTT   RTO  Q  Seq
+                                                   (sec)         (ms)       Cnt Num
+0   172.18.4.248            Te3/1                    13 2w3d        2   100  0  2731660
+1   172.18.4.250            Te4/1                    13 3w0d        3   100  0  2731658
+EIGRP-IPv4 Neighbors for AS(3705)
+H   Address                 Interface              Hold Uptime   SRTT   RTO  Q  Seq
+                                                   (sec)         (ms)       Cnt Num
+1   172.18.5.200            Te3/1                    12 4w0d        3   100  0  2731663
+0   172.18.5.202            Te4/1                    13 4w0d        3   100  0  2731669
+EIGRP-IPv4 Neighbors for AS(3705)
+H   Address                 Interface              Hold Uptime   SRTT   RTO  Q  Seq
+                                                   (sec)         (ms)       Cnt Num
+1   172.18.4.190            Te4/1                    12 9w5d        3   100  0  2731649
+0   172.18.4.188            Te3/1                    11 9w5d        3   100  0  2731648
+EIGRP-IPv4 Neighbors for AS(3705)
+H   Address                 Interface              Hold Uptime   SRTT   RTO  Q  Seq
+                                                   (sec)         (ms)       Cnt Num
+0   172.18.5.204            Te3/1                    11 2w6d        1   100  0  2731677
+1   172.18.5.206            Te4/1                    14 9w5d        1   100  0  2731672
+EIGRP-IPv4 Neighbors for AS(3705)
+H   Address                 Interface              Hold Uptime   SRTT   RTO  Q  Seq
+                                                   (sec)         (ms)       Cnt Num
+0   172.18.4.194            Te4/1                    14 5w0d        1   100  0  2731639
+1   172.18.4.192            Te3/1                    11 5w6d        1   100  0  2731640
+EIGRP-IPv4 Neighbors for AS(3705)
+H   Address                 Interface              Hold Uptime   SRTT   RTO  Q  Seq
+                                                   (sec)         (ms)       Cnt Num
+1   172.18.4.142            Te4/1                    14 9w5d        1   100  0  2731703
+0   172.18.4.140            Te3/1                    12 9w5d        1   100  0  2731697
+EIGRP-IPv4 Neighbors for AS(3705)
+H   Address                 Interface              Hold Uptime   SRTT   RTO  Q  Seq
+                                                   (sec)         (ms)       Cnt Num
+1   172.18.4.254            Te4/1                    14 3w0d        1   100  0  2731685
+0   172.18.4.252            Te3/1                    13 3w0d        1   100  0  2731683
+EIGRP-IPv4 Neighbors for AS(3705)
+H   Address                 Interface              Hold Uptime   SRTT   RTO  Q  Seq
+                                                   (sec)         (ms)       Cnt Num
+1   172.18.4.130            Te4/1                    13 9w5d        1   100  0  2731637
+0   172.18.4.128            Te3/1                    11 9w5d        1   100  0  2731641
+EIGRP-IPv4 Neighbors for AS(3705)
+H   Address                 Interface              Hold Uptime   SRTT   RTO  Q  Seq
+                                                   (sec)         (ms)       Cnt Num
+1   172.18.5.188            Te3/1                    14 9w5d        1   100  0  2731682
+0   172.18.5.190            Te4/1                    14 9w5d        1   100  0  2731681
+EIGRP-IPv4 Neighbors for AS(3705)
+H   Address                 Interface              Hold Uptime   SRTT   RTO  Q  Seq
+                                                   (sec)         (ms)       Cnt Num
+1   172.18.4.198            Te4/1                    12 9w5d        1   100  0  2731667
+0   172.18.4.196            Te3/1                    10 9w5d        1   100  0  2731675
+EIGRP-IPv4 Neighbors for AS(3705)
+H   Address                 Interface              Hold Uptime   SRTT   RTO  Q  Seq
+                                                   (sec)         (ms)       Cnt Num
+1   172.18.4.150            Te4/1                    10 9w5d        1   100  0  2731676
+0   172.18.4.148            Te3/1                    13 9w5d        1   100  0  2731670
+EIGRP-IPv4 Neighbors for AS(3705)
+H   Address                 Interface              Hold Uptime   SRTT   RTO  Q  Seq
+                                                   (sec)         (ms)       Cnt Num
+1   172.18.4.158            Te4/1                    11 9w5d        1   100  0  2731678
+0   172.18.4.156            Te3/1                    13 9w5d        1   100  0  2731673
+EIGRP-IPv4:(3705) neighbors for process 3705
+H   Address                 Interface       Hold Uptime   SRTT   RTO  Q  Seq
+                                            (sec)         (ms)       Cnt Num
+1   172.18.4.160            Gi3/1             13 2w2d        4   300  0  2731693
+0   172.18.4.162            Gi4/1             13 2w2d        3   300  0  2731689
+EIGRP-IPv4 Neighbors for AS(3705)
+H   Address                 Interface              Hold Uptime   SRTT   RTO  Q  Seq
+                                                   (sec)         (ms)       Cnt Num
+1   172.18.4.202            Te4/1                    11 4w0d        1   100  0  2731699
+0   172.18.4.200            Te3/1                    14 4w0d        1   100  0  2731694
+EIGRP-IPv4 Neighbors for AS(3705)
+H   Address                 Interface              Hold Uptime   SRTT   RTO  Q  Seq
+                                                   (sec)         (ms)       Cnt Num
+1   172.18.4.180            Te3/1                    13 4w0d        1   100  0  2731619
+0   172.18.4.182            Te4/1                    13 4w0d        1   100  0  2731620
+EIGRP-IPv4 Neighbors for AS(3705)
+H   Address                 Interface       Hold Uptime   SRTT   RTO  Q  Seq
+                                            (sec)         (ms)       Cnt Num
+1   172.16.40.3             Vl2               12 50w4d       3   300  0  86060
+0   172.16.2.193            Gi1/0/24          10 50w4d       1   300  0  4888260
+EIGRP-IPv4 Neighbors for AS(3705)
+EIGRP-IPv4 Neighbors for AS(3705)
+H   Address                 Interface       Hold Uptime   SRTT   RTO  Q  Seq
+                                            (sec)         (ms)       Cnt Num
+0   172.16.2.229            Gi1/0/47          11 46w4d       1   200  0  1231712
+2   172.16.41.3             Vl2               10 50w4d       4   200  0  200125
+1   172.16.2.233            Gi1/0/48          10 50w4d       1   200  0  4888273
+EIGRP-IPv4 Neighbors for AS(3705)
+H   Address                 Interface       Hold Uptime   SRTT   RTO  Q  Seq
+                                            (sec)         (ms)       Cnt Num
+1   172.16.2.181            Gi2/0/48          14 46w4d       1   200  0  1231711
+0   172.16.2.177            Gi1/0/48          12 48w5d       1   200  0  4888270
+EIGRP-IPv4 Neighbors for AS(3705)
+H   Address                 Interface       Hold Uptime   SRTT   RTO  Q  Seq
+                                            (sec)         (ms)       Cnt Num
+1   172.19.2.58             Te1/1/1           12 3y17w       1   300  0  5599533
+0   172.19.2.60             Te2/1/1           14 3y17w       1   300  0  5726517
+IP-EIGRP neighbors for process 3705
+H   Address                 Interface       Hold Uptime   SRTT   RTO  Q  Seq
+                                            (sec)         (ms)       Cnt Num
+3   172.16.22.35            Fa0/0             13 12w1d      13   200  0  96598
+14  172.16.22.52            Fa0/0             10 36w6d      16   200  0  39175
+13  172.16.22.50            Fa0/0             13 36w6d      13   200  0  39151
+12  172.16.22.51            Fa0/0             10 36w6d      13   200  0  39167
+11  172.16.22.43            Fa0/0             14 36w6d      14   200  0  39147
+10  172.16.22.49            Fa0/0             11 36w6d      13   200  0  39255
+9   172.16.22.46            Fa0/0             11 36w6d      19   200  0  39270
+8   172.16.22.45            Fa0/0             12 36w6d      16   200  0  39254
+7   172.16.22.48            Fa0/0             10 36w6d      14   200  0  39256
+2   172.16.22.47            Fa0/0             10 36w6d      15   200  0  39237
+0   172.16.22.44            Fa0/0             14 36w6d      14   200  0  39233
+16  172.16.22.36            Fa0/0             13 40w5d      28   200  0  180597
+15  172.16.22.39            Fa0/0             11 40w5d      22   200  0  180641
+6   172.16.22.33            Fa0/0             14 40w5d      29   200  0  236542
+5   172.16.22.38            Fa0/0             14 40w5d      12   200  0  180587
+4   172.16.22.40            Fa0/0             13 40w5d      13   200  0  180594
+1   172.16.22.41            Fa0/0             10 40w5d      19   200  0  180602
+IP-EIGRP neighbors for process 3705
+H   Address                 Interface       Hold Uptime   SRTT   RTO  Q  Seq
+                                            (sec)         (ms)       Cnt Num
+4   172.16.22.35            Fa0/0             14 12w1d       7   200  0  96598
+15  172.16.22.52            Fa0/0             11 36w6d       4   200  0  39175
+14  172.16.22.50            Fa0/0             14 36w6d       5   200  0  39151
+13  172.16.22.51            Fa0/0             11 36w6d       5   200  0  39167
+12  172.16.22.43            Fa0/0             10 36w6d       5   200  0  39147
+11  172.16.22.49            Fa0/0             12 36w6d       5   200  0  39255
+10  172.16.22.46            Fa0/0             12 36w6d       2   200  0  39270
+9   172.16.22.45            Fa0/0             13 36w6d       7   200  0  39254
+7   172.16.22.48            Fa0/0             11 36w6d       6   200  0  39256
+3   172.16.22.47            Fa0/0             11 36w6d       4   200  0  39237
+0   172.16.22.44            Fa0/0             10 36w6d       4   200  0  39233
+16  172.16.22.39            Fa0/0             12 40w5d       4   200  0  180641
+8   172.16.22.33            Fa0/0             10 40w5d      20   200  0  236542
+6   172.16.22.38            Fa0/0             11 40w5d      10   200  0  180587
+5   172.16.22.40            Fa0/0             14 40w5d       6   200  0  180594
+2   172.16.22.41            Fa0/0             11 40w5d      25   200  0  180602
+1   172.16.22.37            Fa0/0             13 40w5d      17   200  0  180589
+IP-EIGRP neighbors for process 3705
+H   Address                 Interface       Hold Uptime   SRTT   RTO  Q  Seq
+                                            (sec)         (ms)       Cnt Num
+4   172.16.22.35            Fa0/0             12 12w1d       8   200  0  96598
+14  172.16.22.52            Fa0/0             14 36w6d       9   200  0  39175
+13  172.16.22.50            Fa0/0             13 36w6d       8   200  0  39151
+12  172.16.22.51            Fa0/0             10 36w6d       7   200  0  39167
+11  172.16.22.43            Fa0/0             13 36w6d       4   200  0  39147
+10  172.16.22.49            Fa0/0             10 36w6d       8   200  0  39255
+9   172.16.22.46            Fa0/0             11 36w6d       8   200  0  39270
+8   172.16.22.45            Fa0/0             12 36w6d       9   200  0  39254
+6   172.16.22.48            Fa0/0             10 36w6d       9   200  0  39256
+3   172.16.22.47            Fa0/0             14 36w6d       8   200  0  39237
+0   172.16.22.44            Fa0/0             14 36w6d       8   200  0  39233
+16  172.16.22.36            Fa0/0             13 40w5d      15   200  0  180597
+15  172.16.22.39            Fa0/0             10 40w5d       4   200  0  180641
+7   172.16.22.33            Fa0/0             14 40w5d      30   200  0  236542
+5   172.16.22.40            Fa0/0             13 40w5d       6   200  0  180594
+2   172.16.22.41            Fa0/0             14 40w5d      18   200  0  180602
+1   172.16.22.37            Fa0/0             12 40w5d      17   200  0  180589
+IP-EIGRP neighbors for process 3705
+H   Address                 Interface       Hold Uptime   SRTT   RTO  Q  Seq
+                                            (sec)         (ms)       Cnt Num
+4   172.16.22.35            Fa0/0             11 12w1d       4   200  0  96598
+14  172.16.22.52            Fa0/0             13 36w6d       4   200  0  39175
+13  172.16.22.50            Fa0/0             11 36w6d       2   200  0  39151
+12  172.16.22.51            Fa0/0             13 36w6d       4   200  0  39167
+11  172.16.22.43            Fa0/0             12 36w6d       3   200  0  39147
+10  172.16.22.49            Fa0/0             14 36w6d       3   200  0  39255
+9   172.16.22.46            Fa0/0             14 36w6d       4   200  0  39270
+8   172.16.22.45            Fa0/0             10 36w6d       5   200  0  39254
+7   172.16.22.48            Fa0/0             13 36w6d       3   200  0  39256
+3   172.16.22.47            Fa0/0             13 36w6d       2   200  0  39237
+0   172.16.22.44            Fa0/0             12 36w6d       2   200  0  39233
+16  172.16.22.36            Fa0/0             11 40w5d       4   200  0  180597
+15  172.16.22.33            Fa0/0             12 40w5d      18   200  0  236542
+6   172.16.22.38            Fa0/0             12 40w5d      13   200  0  180587
+5   172.16.22.40            Fa0/0             11 40w5d       4   200  0  180594
+2   172.16.22.41            Fa0/0             13 40w5d      15   200  0  180602
+1   172.16.22.37            Fa0/0             10 40w5d      34   204  0  180589
+IP-EIGRP neighbors for process 3705
+H   Address                 Interface       Hold Uptime   SRTT   RTO  Q  Seq
+                                            (sec)         (ms)       Cnt Num
+4   172.16.22.35            Fa0/0             10 12w1d       7   200  0  96598
+14  172.16.22.52            Fa0/0             12 36w6d      10   200  0  39175
+13  172.16.22.50            Fa0/0             11 36w6d      14   200  0  39151
+12  172.16.22.51            Fa0/0             13 36w6d      14   200  0  39167
+11  172.16.22.43            Fa0/0             11 36w6d      11   200  0  39147
+10  172.16.22.49            Fa0/0             13 36w6d      14   200  0  39255
+9   172.16.22.46            Fa0/0             13 36w6d      14   200  0  39270
+8   172.16.22.45            Fa0/0             10 36w6d      12   200  0  39254
+6   172.16.22.48            Fa0/0             13 36w6d      16   200  0  39256
+3   172.16.22.47            Fa0/0             12 36w6d      12   200  0  39237
+0   172.16.22.44            Fa0/0             12 36w6d      13   200  0  39233
+16  172.16.22.36            Fa0/0             11 40w5d      23   200  0  180597
+15  172.16.22.39            Fa0/0             13 40w5d      18   200  0  180641
+7   172.16.22.33            Fa0/0             12 40w5d      29   200  0  236542
+5   172.16.22.38            Fa0/0             12 40w5d      18   200  0  180587
+2   172.16.22.41            Fa0/0             13 40w5d      13   200  0  180602
+1   172.16.22.37            Fa0/0             10 40w5d      63   378  0  180589
+IP-EIGRP neighbors for process 3705
+H   Address                 Interface       Hold Uptime   SRTT   RTO  Q  Seq
+                                            (sec)         (ms)       Cnt Num
+3   172.16.22.35            Fa0/0             11 12w1d      29   200  0  96598
+14  172.16.22.52            Fa0/0             13 36w6d       8   200  0  39175
+13  172.16.22.50            Fa0/0             12 36w6d       8   200  0  39151
+12  172.16.22.51            Fa0/0             13 36w6d       8   200  0  39167
+11  172.16.22.43            Fa0/0             12 36w6d       6   200  0  39147
+10  172.16.22.49            Fa0/0             14 36w6d       8   200  0  39255
+9   172.16.22.46            Fa0/0             14 36w6d       7   200  0  39270
+8   172.16.22.45            Fa0/0             11 36w6d       9   200  0  39254
+6   172.16.22.48            Fa0/0             14 36w6d       7   200  0  39256
+2   172.16.22.47            Fa0/0             13 36w6d       6   200  0  39237
+0   172.16.22.44            Fa0/0             12 36w6d       9   200  0  39233
+16  172.16.22.36            Fa0/0             12 40w5d      14   200  0  180597
+15  172.16.22.39            Fa0/0             14 40w5d       4   200  0  180641
+7   172.16.22.33            Fa0/0             12 40w5d      24   200  0  236542
+5   172.16.22.38            Fa0/0             12 40w5d      12   200  0  180587
+4   172.16.22.40            Fa0/0             11 40w5d       8   200  0  180594
+1   172.16.22.37            Fa0/0             11 40w5d      28   200  0  180589
+IP-EIGRP neighbors for process 3705
+H   Address                 Interface       Hold Uptime   SRTT   RTO  Q  Seq
+                                            (sec)         (ms)       Cnt Num
+16  172.16.22.33            Fa0/0             11 12w1d      23   200  0  236542
+15  172.16.22.51            Fa0/0             11 12w1d       5   200  0  39167
+14  172.16.22.46            Fa0/0             11 12w1d       2   200  0  39270
+13  172.16.22.48            Fa0/0             12 12w1d       4   200  0  39256
+12  172.16.22.45            Fa0/0             13 12w1d       4   200  0  39254
+11  172.16.22.52            Fa0/0             11 12w1d       5   200  0  39175
+10  172.16.22.50            Fa0/0             14 12w1d       5   200  0  39151
+9   172.16.22.49            Fa0/0             12 12w1d       4   200  0  39255
+8   172.16.22.47            Fa0/0             11 12w1d       5   200  0  39237
+7   172.16.22.38            Fa0/0             10 12w1d      12   200  0  180587
+6   172.16.22.44            Fa0/0             10 12w1d       5   200  0  39233
+5   172.16.22.43            Fa0/0             10 12w1d       4   200  0  39147
+4   172.16.22.39            Fa0/0             12 12w1d       5   200  0  180641
+3   172.16.22.40            Fa0/0             14 12w1d       3   200  0  180594
+2   172.16.22.41            Fa0/0             11 12w1d      32   200  0  180602
+1   172.16.22.37            Fa0/0             13 12w1d      19   200  0  180589
+0   172.16.22.36            Fa0/0             14 12w1d       6   200  0  180597
+IP-EIGRP neighbors for process 3705
+H   Address                 Interface       Hold Uptime   SRTT   RTO  Q  Seq
+                                            (sec)         (ms)       Cnt Num
+4   172.16.22.35            Fa0/0             11 12w1d      15   300  0  96598
+16  172.16.22.47            Fa0/0             13 36w6d       1   300  0  39237
+15  172.16.22.45            Fa0/0             10 36w6d       1   300  0  39254
+14  172.16.22.52            Fa0/0             13 36w6d       1   300  0  39175
+13  172.16.22.50            Fa0/0             11 36w6d       3   300  0  39151
+12  172.16.22.48            Fa0/0             14 36w6d       1   300  0  39256
+11  172.16.22.49            Fa0/0             14 36w6d       1   300  0  39255
+10  172.16.22.51            Fa0/0             13 36w6d       1   300  0  39167
+9   172.16.22.46            Fa0/0             14 36w6d       1   300  0  39270
+8   172.16.22.40            Fa0/0             11 36w6d      13   300  0  180594
+7   172.16.22.44            Fa0/0             12 36w6d       1   300  0  39233
+6   172.16.22.39            Fa0/0             14 36w6d      12   300  0  180641
+5   172.16.22.38            Fa0/0             12 36w6d      18   300  0  180587
+3   172.16.22.33            Fa0/0             12 36w6d      62   558  0  236542
+2   172.16.22.37            Fa0/0             10 36w6d      12   300  0  180589
+1   172.16.22.41            Fa0/0             13 36w6d      12   300  0  180602
+0   172.16.22.36            Fa0/0             12 36w6d      13   300  0  180597
+IP-EIGRP neighbors for process 3705
+H   Address                 Interface       Hold Uptime   SRTT   RTO  Q  Seq
+                                            (sec)         (ms)       Cnt Num
+0   172.16.22.35            Fa0/0             14 12w1d       6   300  0  96598
+16  172.16.22.52            Fa0/0             11 36w6d       1   300  0  39175
+15  172.16.22.50            Fa0/0             14 36w6d       1   300  0  39151
+14  172.16.22.51            Fa0/0             11 36w6d       1   300  0  39167
+13  172.16.22.43            Fa0/0             14 36w6d       1   300  0  39147
+12  172.16.22.49            Fa0/0             12 36w6d       1   300  0  39255
+11  172.16.22.46            Fa0/0             11 36w6d       1   300  0  39270
+10  172.16.22.45            Fa0/0             13 36w6d       1   300  0  39254
+9   172.16.22.48            Fa0/0             11 36w6d       1   300  0  39256
+8   172.16.22.47            Fa0/0             11 36w6d       1   300  0  39237
+7   172.16.22.36            Fa0/0             14 36w6d       7   300  0  180597
+6   172.16.22.40            Fa0/0             14 36w6d       8   300  0  180594
+5   172.16.22.37            Fa0/0             13 36w6d       6   300  0  180589
+4   172.16.22.41            Fa0/0             11 36w6d       6   300  0  180602
+3   172.16.22.39            Fa0/0             12 36w6d       6   300  0  180641
+2   172.16.22.38            Fa0/0             10 36w6d       8   300  0  180587
+1   172.16.22.33            Fa0/0             10 36w6d      51   459  0  236542
+IP-EIGRP neighbors for process 3705
+H   Address                 Interface       Hold Uptime   SRTT   RTO  Q  Seq
+                                            (sec)         (ms)       Cnt Num
+0   172.16.22.35            Fa0/0             14 12w1d      10   300  0  96598
+16  172.16.22.52            Fa0/0             10 36w6d       1   300  0  39175
+15  172.16.22.50            Fa0/0             14 36w6d       1   300  0  39151
+14  172.16.22.51            Fa0/0             11 36w6d       1   300  0  39167
+13  172.16.22.43            Fa0/0             14 36w6d       2   300  0  39147
+12  172.16.22.49            Fa0/0             12 36w6d       1   300  0  39255
+11  172.16.22.46            Fa0/0             11 36w6d       1   300  0  39270
+10  172.16.22.48            Fa0/0             11 36w6d       1   300  0  39256
+9   172.16.22.47            Fa0/0             11 36w6d       1   300  0  39237
+8   172.16.22.36            Fa0/0             14 36w6d       8   300  0  180597
+7   172.16.22.40            Fa0/0             14 36w6d       8   300  0  180594
+6   172.16.22.37            Fa0/0             13 36w6d      16   300  0  180589
+5   172.16.22.41            Fa0/0             11 36w6d       8   300  0  180602
+4   172.16.22.39            Fa0/0             11 36w6d      10   300  0  180641
+3   172.16.22.38            Fa0/0             14 36w6d      10   300  0  180587
+2   172.16.22.44            Fa0/0             14 36w6d       1   300  0  39233
+1   172.16.22.33            Fa0/0             10 36w6d      40   360  0  236542
+IP-EIGRP neighbors for process 3705
+H   Address                 Interface       Hold Uptime   SRTT   RTO  Q  Seq
+                                            (sec)         (ms)       Cnt Num
+0   172.16.22.35            Fa0/0             13 12w1d       5   300  0  96598
+16  172.16.22.52            Fa0/0             14 36w6d       1   300  0  39175
+15  172.16.22.50            Fa0/0             13 36w6d       1   300  0  39151
+14  172.16.22.51            Fa0/0             10 36w6d       1   300  0  39167
+13  172.16.22.43            Fa0/0             14 36w6d       1   300  0  39147
+12  172.16.22.49            Fa0/0             11 36w6d       1   300  0  39255
+11  172.16.22.45            Fa0/0             12 36w6d       1   300  0  39254
+10  172.16.22.48            Fa0/0             11 36w6d       1   300  0  39256
+9   172.16.22.47            Fa0/0             10 36w6d       1   300  0  39237
+8   172.16.22.36            Fa0/0             13 36w6d       9   300  0  180597
+7   172.16.22.40            Fa0/0             13 36w6d      12   300  0  180594
+6   172.16.22.37            Fa0/0             12 36w6d      16   300  0  180589
+5   172.16.22.41            Fa0/0             10 36w6d      11   300  0  180602
+4   172.16.22.39            Fa0/0             11 36w6d       8   300  0  180641
+3   172.16.22.38            Fa0/0             14 36w6d       9   300  0  180587
+2   172.16.22.44            Fa0/0             14 36w6d       1   300  0  39233
+1   172.16.22.33            Fa0/0             14 36w6d      58   522  0  236542
+IP-EIGRP neighbors for process 3705
+H   Address                 Interface       Hold Uptime   SRTT   RTO  Q  Seq
+                                            (sec)         (ms)       Cnt Num
+0   172.16.22.35            Fa0/0             12 12w1d       8   300  0  96598
+16  172.16.22.52            Fa0/0             14 36w6d       1   300  0  39175
+15  172.16.22.50            Fa0/0             12 36w6d       1   300  0  39151
+14  172.16.22.51            Fa0/0             14 36w6d       1   300  0  39167
+13  172.16.22.43            Fa0/0             13 36w6d       1   300  0  39147
+12  172.16.22.49            Fa0/0             10 36w6d       1   300  0  39255
+11  172.16.22.46            Fa0/0             14 36w6d       1   300  0  39270
+10  172.16.22.45            Fa0/0             11 36w6d       1   300  0  39254
+9   172.16.22.48            Fa0/0             10 36w6d       1   300  0  39256
+8   172.16.22.36            Fa0/0             13 36w6d       8   300  0  180597
+7   172.16.22.40            Fa0/0             12 36w6d      10   300  0  180594
+6   172.16.22.37            Fa0/0             12 36w6d       8   300  0  180589
+5   172.16.22.41            Fa0/0             14 36w6d       8   300  0  180602
+4   172.16.22.39            Fa0/0             10 36w6d      10   300  0  180641
+3   172.16.22.38            Fa0/0             13 36w6d       9   300  0  180587
+2   172.16.22.44            Fa0/0             13 36w6d       1   300  0  39233
+1   172.16.22.33            Fa0/0             13 36w6d      58   522  0  236542
+IP-EIGRP neighbors for process 3705
+H   Address                 Interface       Hold Uptime   SRTT   RTO  Q  Seq
+                                            (sec)         (ms)       Cnt Num
+0   172.16.22.35            Fa0/0             11 12w1d       4   300  0  96598
+16  172.16.22.52            Fa0/0             12 36w6d       1   300  0  39175
+15  172.16.22.50            Fa0/0             11 36w6d       1   300  0  39151
+14  172.16.22.51            Fa0/0             12 36w6d       1   300  0  39167
+13  172.16.22.43            Fa0/0             11 36w6d       1   300  0  39147
+12  172.16.22.49            Fa0/0             13 36w6d       1   300  0  39255
+11  172.16.22.46            Fa0/0             13 36w6d       1   300  0  39270
+10  172.16.22.45            Fa0/0             10 36w6d       1   300  0  39254
+9   172.16.22.47            Fa0/0             12 36w6d       1   300  0  39237
+8   172.16.22.36            Fa0/0             11 36w6d       7   300  0  180597
+7   172.16.22.40            Fa0/0             11 36w6d       8   300  0  180594
+6   172.16.22.37            Fa0/0             14 36w6d      12   300  0  180589
+5   172.16.22.41            Fa0/0             12 36w6d       8   300  0  180602
+4   172.16.22.39            Fa0/0             13 36w6d       8   300  0  180641
+3   172.16.22.38            Fa0/0             11 36w6d       8   300  0  180587
+2   172.16.22.44            Fa0/0             11 36w6d       1   300  0  39233
+1   172.16.22.33            Fa0/0             12 36w6d      54   486  0  236542
+IP-EIGRP neighbors for process 3705
+H   Address                 Interface       Hold Uptime   SRTT   RTO  Q  Seq
+                                            (sec)         (ms)       Cnt Num
+0   172.16.22.35            Fa0/0             12 12w1d      14   300  0  96598
+16  172.16.22.52            Fa0/0             14 36w6d       1   300  0  39175
+15  172.16.22.50            Fa0/0             12 36w6d       1   300  0  39151
+14  172.16.22.51            Fa0/0             14 36w6d       1   300  0  39167
+13  172.16.22.43            Fa0/0             13 36w6d       1   300  0  39147
+12  172.16.22.46            Fa0/0             14 36w6d       1   300  0  39270
+11  172.16.22.45            Fa0/0             11 36w6d       1   300  0  39254
+10  172.16.22.48            Fa0/0             10 36w6d       1   300  0  39256
+9   172.16.22.47            Fa0/0             14 36w6d       1   300  0  39237
+8   172.16.22.36            Fa0/0             13 36w6d      12   300  0  180597
+7   172.16.22.40            Fa0/0             12 36w6d      14   300  0  180594
+6   172.16.22.37            Fa0/0             12 36w6d      22   300  0  180589
+5   172.16.22.41            Fa0/0             14 36w6d      11   300  0  180602
+4   172.16.22.39            Fa0/0             10 36w6d      12   300  0  180641
+3   172.16.22.38            Fa0/0             13 36w6d      18   300  0  180587
+2   172.16.22.44            Fa0/0             13 36w6d       1   300  0  39233
+1   172.16.22.33            Fa0/0             13 36w6d      58   522  0  236542
+IP-EIGRP neighbors for process 3705
+H   Address                 Interface       Hold Uptime   SRTT   RTO  Q  Seq
+                                            (sec)         (ms)       Cnt Num
+5   172.16.22.35            Fa0/0             10 12w1d       5   300  0  96598
+16  172.16.22.47            Fa0/0             12 36w6d       1   300  0  39237
+15  172.16.22.45            Fa0/0             14 36w6d       1   300  0  39254
+14  172.16.22.52            Fa0/0             12 36w6d       1   300  0  39175
+13  172.16.22.50            Fa0/0             11 36w6d       1   300  0  39151
+12  172.16.22.48            Fa0/0             13 36w6d       1   300  0  39256
+11  172.16.22.49            Fa0/0             13 36w6d       1   300  0  39255
+10  172.16.22.46            Fa0/0             12 36w6d       1   300  0  39270
+9   172.16.22.40            Fa0/0             11 36w6d       5   300  0  180594
+8   172.16.22.44            Fa0/0             11 36w6d       1   300  0  39233
+7   172.16.22.39            Fa0/0             13 36w6d      10   300  0  180641
+6   172.16.22.38            Fa0/0             11 36w6d       6   300  0  180587
+4   172.16.22.37            Fa0/0             14 36w6d      10   300  0  180589
+3   172.16.22.41            Fa0/0             12 36w6d       6   300  0  180602
+2   172.16.22.36            Fa0/0             11 36w6d       6   300  0  180597
+1   172.16.22.33            Fa0/0             12 36w6d      48   432  0  236542
+0   172.16.22.43            Fa0/0             11 36w6d       1   300  0  39147
+IP-EIGRP neighbors for process 3705
+H   Address                 Interface       Hold Uptime   SRTT   RTO  Q  Seq
+                                            (sec)         (ms)       Cnt Num
+5   172.16.22.35            Fa0/0             13 12w1d       7   300  0  96598
+16  172.16.22.47            Fa0/0             14 36w6d       1   300  0  39237
+15  172.16.22.45            Fa0/0             12 36w6d       1   300  0  39254
+14  172.16.22.52            Fa0/0             14 36w6d       2   300  0  39175
+13  172.16.22.48            Fa0/0             10 36w6d       1   300  0  39256
+12  172.16.22.49            Fa0/0             11 36w6d       1   300  0  39255
+11  172.16.22.51            Fa0/0             14 36w6d       1   300  0  39167
+10  172.16.22.46            Fa0/0             10 36w6d       1   300  0  39270
+9   172.16.22.40            Fa0/0             13 36w6d      11   300  0  180594
+8   172.16.22.44            Fa0/0             14 36w6d       1   300  0  39233
+7   172.16.22.39            Fa0/0             11 36w6d      11   300  0  180641
+6   172.16.22.38            Fa0/0             13 36w6d      14   300  0  180587
+4   172.16.22.37            Fa0/0             12 36w6d      10   300  0  180589
+3   172.16.22.41            Fa0/0             14 36w6d      11   300  0  180602
+2   172.16.22.36            Fa0/0             13 36w6d       9   300  0  180597
+1   172.16.22.33            Fa0/0             14 36w6d      56   504  0  236542
+0   172.16.22.43            Fa0/0             13 36w6d       2   300  0  39147
+IP-EIGRP neighbors for process 3705
+H   Address                 Interface       Hold Uptime   SRTT   RTO  Q  Seq
+                                            (sec)         (ms)       Cnt Num
+5   172.16.22.35            Fa0/0             10 12w1d       5   300  0  96598
+16  172.16.22.47            Fa0/0             12 36w6d       1   300  0  39237
+15  172.16.22.45            Fa0/0             14 36w6d       1   300  0  39254
+14  172.16.22.50            Fa0/0             10 36w6d       1   300  0  39151
+13  172.16.22.48            Fa0/0             13 36w6d       1   300  0  39256
+12  172.16.22.49            Fa0/0             13 36w6d       1   300  0  39255
+11  172.16.22.51            Fa0/0             12 36w6d       1   300  0  39167
+10  172.16.22.46            Fa0/0             12 36w6d       1   300  0  39270
+9   172.16.22.40            Fa0/0             10 36w6d       6   300  0  180594
+8   172.16.22.44            Fa0/0             11 36w6d       1   300  0  39233
+7   172.16.22.39            Fa0/0             12 36w6d       8   300  0  180641
+6   172.16.22.38            Fa0/0             11 36w6d       8   300  0  180587
+4   172.16.22.37            Fa0/0             14 36w6d      13   300  0  180589
+3   172.16.22.41            Fa0/0             12 36w6d      12   300  0  180602
+2   172.16.22.36            Fa0/0             11 36w6d       7   300  0  180597
+1   172.16.22.33            Fa0/0             12 36w6d      43   387  0  236542
+0   172.16.22.43            Fa0/0             11 36w6d       1   300  0  39147
+EIGRP-IPv4 Neighbors for AS(3705)
+H   Address                 Interface       Hold Uptime   SRTT   RTO  Q  Seq
+                                            (sec)         (ms)       Cnt Num
+0   172.16.2.237            Gi1/0/47          11 46w4d       1   200  0  1231709
+2   172.16.41.2             Vl2               13 50w4d       1   200  0  200234
+1   172.16.2.225            Gi1/0/48          13 50w4d       1   200  0  4888271
+EIGRP-IPv4 Neighbors for AS(3705)
+H   Address                 Interface       Hold Uptime   SRTT   RTO  Q  Seq
+                                            (sec)         (ms)       Cnt Num
+0   172.16.2.197            Gi1/0/24          11 46w4d       1   300  0  1231699
+1   172.16.40.2             Vl2               13 50w4d       5   300  0  85830
+EIGRP-IPv4 Neighbors for AS(3705)
+IP-EIGRP neighbors for process 3705
+H   Address                 Interface       Hold Uptime   SRTT   RTO  Q  Seq
+                                            (sec)         (ms)       Cnt Num
+5   172.16.21.49            Gi0/1             14 12w1d      26   300  0  221708
+4   172.16.21.53            Gi0/1             11 12w1d       1   300  0  41658
+3   172.16.21.55            Gi0/1             12 12w1d       1   300  0  716330
+2   172.16.21.33            Gi0/0             10 12w1d      24   300  0  221893
+1   172.16.21.37            Gi0/0             11 12w1d       1   300  0  41659
+0   172.16.21.39            Gi0/0             11 12w1d       1   300  0  716331
+IP-EIGRP neighbors for process 3705
+H   Address                 Interface       Hold Uptime   SRTT   RTO  Q  Seq
+                                            (sec)         (ms)       Cnt Num
+3   172.16.21.54            Gi0/1             11 12w1d       1   300  0  63462
+2   172.16.21.38            Gi0/0             11 12w1d       1   300  0  63463
+4   172.16.21.49            Gi0/1             13 12w5d       6   300  0  221708
+0   172.16.21.53            Gi0/1             14 12w5d       1   300  0  41658
+5   172.16.21.37            Gi0/0             14 12w5d       1   300  0  41659
+1   172.16.21.33            Gi0/0             14 12w5d       8   300  0  221893
+EIGRP-IPv4 Neighbors for AS(3705)
+H   Address                 Interface              Hold Uptime   SRTT   RTO  Q  Seq
+                                                   (sec)         (ms)       Cnt Num
+0   172.19.21.49            Po1                      11 1y9w      132   792  0  567738
+EIGRP-IPv4 Neighbors for AS(3705)
+H   Address                 Interface       Hold Uptime   SRTT   RTO  Q  Seq
+                                            (sec)         (ms)       Cnt Num
+0   172.16.2.173            Gi1/0/48          11 46w4d       1   200  0  1231702
+1   172.16.37.2             Vl2               11 48w5d       2   200  0  117095
+EIGRP-IPv4 Neighbors for AS(3705)
+H   Address                 Interface              Hold Uptime   SRTT   RTO  Q  Seq
+                                                   (sec)         (ms)       Cnt Num
+1   172.19.2.170            Gi1/1/2                  10 37w6d       1   100  0  5726518
+0   172.19.2.168            Gi1/1/1                  12 37w6d       1   100  0  5599535
+EIGRP-IPv4 Neighbors for AS(3705)
+H   Address                 Interface              Hold Uptime   SRTT   RTO  Q  Seq
+                                                   (sec)         (ms)       Cnt Num
+0   172.19.2.70             Gi0/1                    14 7w1d        1   100  0  5599539
+EIGRP-IPv4 Neighbors for AS(3705)
+H   Address                 Interface              Hold Uptime   SRTT   RTO  Q  Seq
+                                                   (sec)         (ms)       Cnt Num
+1   172.18.5.248            Te3/1                    12 7w1d        1   100  0  2731642
+0   172.18.5.250            Te4/1                    14 9w5d        1   100  0  2731643
+EIGRP-IPv4 Neighbors for AS(3705)
+EIGRP-IPv4 Neighbors for AS(255)
+EIGRP-IPv4 Neighbors for AS(3705)
+H   Address                 Interface              Hold Uptime   SRTT   RTO  Q  Seq
+                                                   (sec)         (ms)       Cnt Num
+1   172.18.5.220            Te3/1                    10 9w4d        2   100  0  2731629
+0   172.18.5.222            Te4/1                    11 9w5d        2   100  0  2731630
+EIGRP-IPv4 Neighbors for AS(3705)
+EIGRP-IPv4 Neighbors for AS(255)
+EIGRP-IPv4 Neighbors for AS(3705)
+H   Address                 Interface              Hold Uptime   SRTT   RTO  Q  Seq
+                                                   (sec)         (ms)       Cnt Num
+1   172.16.2.189            Gi2/0/48                 13 46w4d       1   100  0  1231698
+0   172.16.2.185            Gi1/0/48                 14 1y13w       1   100  0  4888259
+EIGRP-IPv4 Neighbors for AS(3705)
+H   Address                 Interface              Hold Uptime   SRTT   RTO  Q  Seq
+                                                   (sec)         (ms)       Cnt Num
+1   172.18.4.244            Te3/1                    12 2w2d        1   100  0  2731709
+0   172.18.4.246            Te4/1                    10 2w2d        1   100  0  2731708
+EIGRP-IPv4 Neighbors for AS(3705)
+H   Address                 Interface              Hold Uptime   SRTT   RTO  Q  Seq
+                                                   (sec)         (ms)       Cnt Num
+96  172.18.4.147            Te2/4/3                  11 2d08h       7   100  0  894
+40  172.18.4.145            Te1/4/3                  13 2d08h       7   100  0  893
+82  172.18.5.229            Te1/3/7                  13 2w0d        1   100  0  1195
+95  172.18.4.177            Te1/1/8                  12 2w2d        5   100  0  117123
+94  172.18.4.179            Te2/1/8                  11 2w2d        5   100  0  117122
+93  172.18.4.161            Te1/1/1                  10 2w2d        7   100  0  306938
+80  172.18.4.163            Te2/1/1                  11 2w2d        6   100  0  306939
+73  172.18.4.245            Te1/3/16                 13 2w2d        1   100  0  6045
+7   172.18.4.247            Te2/3/16                 11 2w2d        3   100  0  6044
+76  172.18.4.249            Te1/3/15                 14 2w3d        3   100  0  6941
+4   172.18.5.237            Te1/3/5                  14 2w5d        3   100  0  23976
+45  172.18.5.205            Te1/2/8                  11 2w6d        3   100  0  32271
+13  172.18.4.251            Te2/3/15                 13 3w0d        4   100  0  6942
+35  172.18.4.255            Te2/3/14                 11 3w0d        3   100  0  8736
+11  172.18.4.253            Te1/3/14                 11 3w0d        3   100  0  8737
+34  172.18.5.143            Te2/1/2                  11 3w0d        2   100  0  9001
+23  172.18.5.225            Te1/3/8                  15 3w0d        2   100  0  8931
+6   172.18.5.227            Te2/3/8                  13 3w0d        2   100  0  8932
+21  172.18.5.131            Te2/1/4                  13 3w0d        6   100  0  9005
+22  172.18.5.129            Te1/1/4                  11 3w0d        6   100  0  9004
+20  172.18.5.141            Te1/1/2                  13 3w1d        2   100  0  9002
+28  172.18.5.181            Te1/2/5                  10 3w5d        2   100  0  11054
+15  172.18.5.197            Te1/2/10                 12 3w5d       10   100  0  29397
+78  172.18.4.213            Te1/3/3                  11 3w6d        3   100  0  10629
+9   172.18.4.215            Te2/3/3                  12 3w6d        3   100  0  10630
+18  172.18.5.201            Te1/2/9                  11 4w0d        3   100  0  10590
+19  172.18.5.203            Te2/2/9                  11 4w0d        3   100  0  10589
+92  172.18.4.203            Te2/2/12                 11 4w0d        4   100  0  10906
+91  172.18.4.201            Te1/2/12                 13 4w0d        3   100  0  10907
+26  172.18.4.181            Te1/2/7                  10 4w0d       13   100  0  10957
+25  172.18.4.183            Te2/2/7                  14 4w0d       13   100  0  10956
+14  172.18.5.183            Te2/2/5                  12 4w1d        2   100  0  11055
+51  172.18.4.195            Te2/2/14                 12 5w0d        3   100  0  15808
+90  172.18.4.237            Te1/3/9                  10 5w1d       16   100  0  35557
+89  172.18.4.239            Te2/3/9                  10 5w1d       13   100  0  35558
+88  172.18.4.193            Te1/2/14                 13 5w6d        4   100  0  15807
+72  172.18.4.229            Te1/3/11                 14 7w1d        2   100  0  23466
+71  172.18.5.213            Te1/3/1                  14 7w1d        1   100  0  23522
+24  172.18.5.233            Te1/3/6                  13 7w1d        5   100  0  32212
+12  172.18.5.253            Te1/3/12                 15 7w1d        2   100  0  24333
+10  172.18.4.221            Te1/3/2                  12 7w1d        2   100  0  25554
+8   172.18.4.233            Te1/3/10                 11 7w1d        3   100  0  23624
+5   172.18.5.249            Te1/3/13                 14 7w1d        5   100  0  25201
+59  172.18.5.147            Te2/1/12                 12 7w2d        2   100  0  18371
+56  172.18.5.145            Te1/1/12                 10 7w2d        2   100  0  18372
+42  172.18.5.235            Te2/3/6                  12 7w6d        6   100  0  32213
+74  172.18.5.215            Te2/3/1                  12 9w1d        3   100  0  23521
+87  172.18.5.239            Te2/3/5                  10 9w3d        3   100  0  23975
+86  172.18.5.221            Te1/2/15                 12 9w4d        4   100  0  37315
+66  172.18.5.217            Te1/2/16                 15 9w4d        4   100  0  23589
+85  172.18.5.219            Te2/2/16                 11 9w4d        4   100  0  23590
+83  172.18.5.255            Te2/3/12                 13 9w4d        2   100  0  24334
+81  172.18.4.231            Te2/3/11                 13 9w5d        2   100  0  23465
+84  172.18.4.235            Te2/3/10                 14 9w5d        3   100  0  23623
+79  172.18.4.167            Te2/2/3                  13 9w5d        3   100  0  24744
+77  172.18.4.165            Te1/2/3                  14 9w5d        3   100  0  24745
+75  172.18.5.251            Te2/3/13                 10 9w5d        5   100  0  25200
+70  172.18.4.223            Te2/3/2                  12 9w5d        2   100  0  25555
+69  172.18.4.175            Te2/2/2                  11 9w5d        4   100  0  32352
+68  172.18.4.173            Te1/2/2                  13 9w5d        3   100  0  32353
+67  172.18.5.189            Te1/2/4                  12 9w5d        3   100  0  32350
+65  172.18.5.167            Te2/2/1                  12 9w5d        3   100  0  30956
+64  172.18.5.165            Te1/2/1                  10 9w5d        2   100  0  30957
+63  172.18.5.175            Te2/1/15                 13 9w5d        2   100  0  30922
+62  172.18.5.173            Te1/1/15                 12 9w5d        2   100  0  30921
+61  172.18.4.151            Te2/1/14                 14 9w5d        3   100  0  37276
+60  172.18.4.149            Te1/1/14                 12 9w5d        2   100  0  37277
+58  172.18.4.159            Te2/1/13                 11 9w5d        3   100  0  37143
+57  172.18.4.157            Te1/1/13                 13 9w5d        3   100  0  37144
+55  172.18.5.151            Te2/1/11                 11 9w5d        4   100  0  37327
+54  172.18.4.143            Te2/1/5                  11 9w5d        7   100  0  41515
+53  172.18.4.141            Te1/1/5                  10 9w5d        7   100  0  41516
+52  172.18.5.199            Te2/2/10                 14 9w5d        9   100  0  29398
+50  172.18.4.207            Te2/2/11                 12 9w5d        5   100  0  32325
+49  172.18.4.199            Te2/2/13                 10 9w5d        3   100  0  32295
+48  172.18.4.197            Te1/2/13                 14 9w5d        3   100  0  32294
+47  172.18.5.207            Te2/2/8                  13 9w5d        2   100  0  32272
+46  172.18.4.205            Te1/2/11                 10 9w5d        5   100  0  32324
+44  172.18.4.191            Te2/2/6                  11 9w5d        4   100  0  32417
+43  172.18.4.189            Te1/2/6                  13 9w5d        4   100  0  32418
+41  172.18.5.191            Te2/2/4                  12 9w5d        3   100  0  32351
+39  172.18.5.223            Te2/2/15                 13 9w5d        4   100  0  37314
+38  172.18.5.135            Te2/1/3                  11 9w5d        3   100  0  37271
+37  172.18.5.149            Te1/1/11                 13 9w5d        1   100  0  37328
+36  172.18.5.133            Te1/1/3                  13 9w5d        3   100  0  37272
+33  172.18.5.155            Te2/1/10                 11 9w5d        4   100  0  41538
+32  172.18.5.153            Te1/1/10                 13 9w5d        4   100  0  41537
+31  172.18.5.159            Te2/1/9                  11 9w5d        9   100  0  41478
+30  172.18.5.157            Te1/1/9                  11 9w5d        9   100  0  41479
+29  172.18.4.131            Te2/1/7                  14 9w5d        4   100  0  41521
+27  172.18.4.129            Te1/1/7                  13 9w5d        4   100  0  41522
+17  172.18.4.135            Te2/1/6                  14 9w5d        1   100  0  27314
+16  172.18.4.133            Te1/1/6                  13 9w5d        4   100  0  27313
+3   172.16.3.158            Te2/5/1                  12 9w5d        1   100  0  1065316
+2   172.16.3.166            Te2/5/2                  10 9w5d        1   100  0  1038534
+1   172.16.3.162            Te1/5/2                  10 9w5d        1   100  0  1065320
+0   172.16.3.154            Te1/5/1                  12 9w5d        1   100  0  1038528
+EIGRP-IPv4 Neighbors for AS(3705)
+H   Address                 Interface              Hold Uptime   SRTT   RTO  Q  Seq
+                                                   (sec)         (ms)       Cnt Num
+0   172.18.4.176            Te5/1                    13 2w2d        2   100  0  2731687
+1   172.18.4.178            Te6/1                    14 2w2d        2   100  0  2731691
+EIGRP-IPv4 Neighbors for AS(3705)
+H   Address                 Interface              Hold Uptime   SRTT   RTO  Q  Seq
+                                                   (sec)         (ms)       Cnt Num
+0   172.18.5.228            Te3/1                    12 2w0d        1   100  0  2731712
+EIGRP-IPv4 Neighbors for AS(3705)
+H   Address                 Interface              Hold Uptime   SRTT   RTO  Q  Seq
+                                                   (sec)         (ms)       Cnt Num
+0   172.19.2.52             Gi1/1/1                  14 14w5d       1   100  0  5726522
+1   172.19.2.50             Gi1/1/3                  12 14w5d       1   100  0  5599534

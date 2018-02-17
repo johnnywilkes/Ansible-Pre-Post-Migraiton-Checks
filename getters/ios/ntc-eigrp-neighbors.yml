@@ -1,0 +1,13 @@
+#
+# Get cdp neighbor state using NTC
+#
+- ntc_show_command:
+    connection: ssh
+    platform: cisco_ios_ssh
+    command: 'sh ip eigrp neighbors'
+    template_dir: "/home/jwilkes/.ansible/plugins/modules/ntc-ansible/ntc-templates/templates"
+    host: "{{ inventory_hostname }}"
+    username: "{{ ansible_user }}"
+    password: "{{ ansible_ssh_pass }}"
+  register: eigrp_printout
+- set_fact: state_eigrp={{ eigrp_printout | remove_keys(['changed' , 'failed' , 'response_list'],true) }}

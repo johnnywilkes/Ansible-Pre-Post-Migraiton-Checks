@@ -1,0 +1,13 @@
+#
+# Get cdp neighbor state using NTC
+#
+- ntc_show_command:
+    connection: ssh
+    platform: cisco_ios_ssh
+    command: 'sh cdp neighbors detail'
+    template_dir: "/home/jwilkes/.ansible/plugins/modules/ntc-ansible/ntc-templates/templates"
+    host: "{{ inventory_hostname }}"
+    username: "{{ ansible_user }}"
+    password: "{{ ansible_ssh_pass }}"
+  register: cdp_printout
+- set_fact: state_cdp_neighbors={{ cdp_printout | remove_keys(['software_version' , 'changed' , 'failed' , 'response_list'],true) }}

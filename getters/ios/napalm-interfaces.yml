@@ -1,0 +1,15 @@
+#
+# Get interface state using NAPALM
+#
+- napalm_get_facts:
+    hostname={{ansible_host|default(inventory_hostname)}}
+    username={{ansible_user}}
+    password={{ansible_ssh_pass}}
+    dev_os={{ansible_os}}
+    filter='interfaces,interfaces_ip'
+- set_fact:
+    state_interfaces: >
+      {{ napalm_interfaces |
+         combine(napalm_interfaces_ip,recursive=True) |
+         remove_keys('last_flapped',true) }}
+
